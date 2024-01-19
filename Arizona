@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>front-web</title>
+  <style>
+  .first-p {
+    font-family:Arial;
+    }
+   
+    .first-span {
+      color:blue;
+      background-color:;
+    }
+  .s-span {
+   background-color:;
+    color:red;
+  }    
+  
+  .third-p {
+    font-family:Arial;
+   background-color:orange;
+  } 
+    
+  
+  .facebook-button{
+    border:none;
+    color:white;
+    background-color:blue;
+    height:40px;
+    border-radius:5px;
+  }
+  
+  .youtube-button{
+    border:none;
+    color:black;
+    background-color:red;
+    height:40px;
+    border-radius:5px;
+    margin-left:30px;
+  }
+  .u-u {
+    color:red;
+  }
+  .t-span {
+    color:yellow;
+    background-color:;
+  }
+ .fr-span {
+   background-color:;
+   color:blue;
+ } 
+ .ft-span {
+   color:green;
+    
+  }
+  .sx-span {
+    color:red;
+    background-color:;
+    height:50px;
+    width:50px;
+  }
+  .fourth-p {
+    font-size:6px;
+    color:orange;
+  }
+  .fifth-p {
+    font-size:8px;
+    color:green;
+  }
+  .body-first { 
+    background-color:white;
+  }
+  .h1{
+    height:30px;
+    width:400px;
+    margin-left:70px;
+  }
+  
+  </style>
+</head>
+<body class="body-first">
+  <h1 class="h1">
+    <p class="first-p">
+<span class="first-span">A</span>
+<span class="s-span">R</span>
+<span class="t-span">I</span>
+<span class="fr-span">S</span>
+<span class="ft-span">I</span>
+<span class="sx-span">R</span>
+      <span class="sv-span">
+        A
+      </span>
+    </p>
+    
+  </h1>
+    <p class="second-p">
+         <input type="text" placeholder="search">
+      <a href="https://youtube.com/"><button class="youtube-button"onclick="alert('preparing your device for youtube');">visit Youtube</button></a>
+      <a href="https://m.facebook.com/"><button class="facebook-button"onclick="alert('preparing your device for facebook')">visit facebook</button></a>
+      <button>exit</button>
+      
+         </p>
+  <p class="third-p"><strong>Info about developer.</strong></p>
+  <p class="fourth-p"><em>I'm Prince as you already know I'm a developer very hardworking and turning my dreams into reality</em></p>
+  <p class="fifth-p">
+    <em>
+      Proudly speaking,I'm the CEO of ARISIRA and ARIZONA. Thank you for choosing this great choice . May GOD be with you.
+      </em>
+      <u class="u-u">AMEN
+</u>
+</p>
+<p>WAEC GCE Physics Objective Questions 2023.
+Paper 1 [Objective]
+Answer ALL questions in this section.
+Shade your answers on the answer booklet provided.
+
+1. An electron moves with a speed of 2.00 x 107 ms-1 in an orbit in a uniform magnetic field of 1.20 x 10-3T. Calculate the radius of the orbit.
+[Mass of an electron = 9.11 x 10-31kg; charge on an electron = 1.61 x 10-19C]
+
+2. A tennis ball projected at an angle attains a range R = 78 m. If the velocity imparted to the ball by the racket is 30ms-1, calculate.
+[g=10ms-2]
+
+3. A metallic bar 50 cm long has a uniform cross-sectional area of 4.0 cm2.  If a tensile force of 35kN produces an extension of 0.25 mm, calculate the value of Young’s modulus.
+
+4. A stone projected horizontally from the top of a tower with a speed of 4 ms-1 lands on the level ground at a horizontal distance of 25 m from the foot of the tower. Calculate the height of the tower.
+[g = 10 ms-2]
+
+5. A spiral spring with a metal extends by 10.5cm in the air. When the metal is fully in water, the spring extends by 6.8 cm. Calculate the relative density of the metal (Assume Hooke s law Is obeyed)
+
+6. A ray of light is incident on an air-glass boundary at an angle t? If the angle between the partially reflected ray and the refracted ray is 90°, calculate θ given that the refractive index of glass is 1.50.
+
+7. A ball is projected horizontally from a height with a velocity of 40 ms-1. Calculate the drop in height after traveling a horizontal distance of 30m.
+[Neglect air resistance; g = 10 ms-1]
+
+8.
+
+NOTE: There is nothing like Waec physics expo online. Do not be deceived by fraudsters posing with fake Waec physics answers on the internet. The resources above on WAEC Physics Answers have been made available to assist candidates to understand the required standards expected in Physics final Examination.
+
+Keep following, more questions and answers will be added soon.WAEC GCE Physics Objective Questions 2023.
+Paper 1 [Objective]
+Answer ALL questions in this section.
+Shade your answers on the answer booklet provided.
+
+1. An electron moves with a speed of 2.00 x 107 ms-1 in an orbit in a uniform magnetic field of 1.20 x 10-3T. Calculate the radius of the orbit.
+[Mass of an electron = 9.11 x 10-31kg; charge on an electron = 1.61 x 10-19C]
+
+2. A tennis ball projected at an angle attains a range R = 78 m. If the velocity imparted to the ball by the racket is 30ms-1, calculate.
+[g=10ms-2]
+
+3. A metallic bar 50 cm long has a uniform cross-sectional area of 4.0 cm2.  If a tensile force of 35kN produces an extension of 0.25 mm, calculate the value of Young’s modulus.
+
+4. A stone projected horizontally from the top of a tower with a speed of 4 ms-1 lands on the level ground at a horizontal distance of 25 m from the foot of the tower. Calculate the height of the tower.
+[g = 10 ms-2]
+
+5. A spiral spring with a metal extends by 10.5cm in the air. When the metal is fully in water, the spring extends by 6.8 cm. Calculate the relative density of the metal (Assume Hooke s law Is obeyed)
+
+6. A ray of light is incident on an air-glass boundary at an angle t? If the angle between the partially reflected ray and the refracted ray is 90°, calculate θ given that the refractive index of glass is 1.50.
+
+7. A ball is projected horizontally from a height with a velocity of 40 ms-1. Calculate the drop in height after traveling a horizontal distance of 30m.
+[Neglect air resistance; g = 10 ms-1]
+
+8.
+
+NOTE: There is nothing like Waec physics expo online. Do not be deceived by fraudsters posing with fake Waec physics answers on the internet. The resources above on WAEC Physics Answers have been made available to assist candidates to understand the required standards expected in Physics final Examination.
+
+Keep following, more questions and answers will be added soon.
+    
+  
+  </p>
+<script>alert('welcome to my service')</script>
+</body>
+</html><!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>front-web</title>
+  <style>
+  .first-p {
+    font-family:Arial;
+    }
+   
+    .first-span {
+      color:blue;
+      background-color:;
+    }
+  .s-span {
+   background-color:;
+    color:red;
+  }    
+  
+  .third-p {
+    font-family:Arial;
+   background-color:orange;
+  } 
+    
+  
+  .facebook-button{
+    border:none;
+    color:white;
+    background-color:blue;
+    height:40px;
+    border-radius:5px;
+  }
+  
+  .youtube-button{
+    border:none;
+    color:black;
+    background-color:red;
+    height:40px;
+    border-radius:5px;
+    margin-left:30px;
+  }
+  .u-u {
+    color:red;
+  }
+  .t-span {
+    color:yellow;
+    background-color:;
+  }
+ .fr-span {
+   background-color:;
+   color:blue;
+ } 
+ .ft-span {
+   color:green;
+    
+  }
+  .sx-span {
+    color:red;
+    background-color:;
+    height:50px;
+    width:50px;
+  }
+  .fourth-p {
+    font-size:6px;
+    color:orange;
+  }
+  .fifth-p {
+    font-size:8px;
+    color:green;
+  }
+  .body-first { 
+    background-color:white;
+  }
+  .h1{
+    height:30px;
+    width:400px;
+    margin-left:70px;
+  }
+  
+  </style>
+</head>
+<body class="body-first">
+  <h1 class="h1">
+    <p class="first-p">
+<span class="first-span">A</span>
+<span class="s-span">R</span>
+<span class="t-span">I</span>
+<span class="fr-span">S</span>
+<span class="ft-span">I</span>
+<span class="sx-span">R</span>
+      <span class="sv-span">
+        A
+      </span>
+    </p>
+    
+  </h1>
+    <p class="second-p">
+         <input type="text" placeholder="search">
+      <a href="https://youtube.com/"><button class="youtube-button"onclick="alert('preparing your device for youtube');">visit Youtube</button></a>
+      <a href="https://m.facebook.com/"><button class="facebook-button"onclick="alert('preparing your device for facebook')">visit facebook</button></a>
+      <button>exit</button>
+      
+         </p>
+  <p class="third-p"><strong>Info about developer.</strong></p>
+  <p class="fourth-p"><em>I'm Prince as you already know I'm a developer very hardworking and turning my dreams into reality</em></p>
+  <p class="fifth-p">
+    <em>
+      Proudly speaking,I'm the CEO of ARISIRA and ARIZONA. Thank you for choosing this great choice . May GOD be with you.
+      </em>
+      <u class="u-u">AMEN
+</u>
+</p>
+<p>WAEC GCE Physics Objective Questions 2023.
+Paper 1 [Objective]
+Answer ALL questions in this section.
+Shade your answers on the answer booklet provided.
+
+1. An electron moves with a speed of 2.00 x 107 ms-1 in an orbit in a uniform magnetic field of 1.20 x 10-3T. Calculate the radius of the orbit.
+[Mass of an electron = 9.11 x 10-31kg; charge on an electron = 1.61 x 10-19C]
+
+2. A tennis ball projected at an angle attains a range R = 78 m. If the velocity imparted to the ball by the racket is 30ms-1, calculate.
+[g=10ms-2]
+
+3. A metallic bar 50 cm long has a uniform cross-sectional area of 4.0 cm2.  If a tensile force of 35kN produces an extension of 0.25 mm, calculate the value of Young’s modulus.
+
+4. A stone projected horizontally from the top of a tower with a speed of 4 ms-1 lands on the level ground at a horizontal distance of 25 m from the foot of the tower. Calculate the height of the tower.
+[g = 10 ms-2]
+
+5. A spiral spring with a metal extends by 10.5cm in the air. When the metal is fully in water, the spring extends by 6.8 cm. Calculate the relative density of the metal (Assume Hooke s law Is obeyed)
+
+6. A ray of light is incident on an air-glass boundary at an angle t? If the angle between the partially reflected ray and the refracted ray is 90°, calculate θ given that the refractive index of glass is 1.50.
+
+7. A ball is projected horizontally from a height with a velocity of 40 ms-1. Calculate the drop in height after traveling a horizontal distance of 30m.
+[Neglect air resistance; g = 10 ms-1]
+
+8.
+
+NOTE: There is nothing like Waec physics expo online. Do not be deceived by fraudsters posing with fake Waec physics answers on the internet. The resources above on WAEC Physics Answers have been made available to assist candidates to understand the required standards expected in Physics final Examination.
+
+Keep following, more questions and answers will be added soon.WAEC GCE Physics Objective Questions 2023.
+Paper 1 [Objective]
+Answer ALL questions in this section.
+Shade your answers on the answer booklet provided.
+
+1. An electron moves with a speed of 2.00 x 107 ms-1 in an orbit in a uniform magnetic field of 1.20 x 10-3T. Calculate the radius of the orbit.
+[Mass of an electron = 9.11 x 10-31kg; charge on an electron = 1.61 x 10-19C]
+
+2. A tennis ball projected at an angle attains a range R = 78 m. If the velocity imparted to the ball by the racket is 30ms-1, calculate.
+[g=10ms-2]
+
+3. A metallic bar 50 cm long has a uniform cross-sectional area of 4.0 cm2.  If a tensile force of 35kN produces an extension of 0.25 mm, calculate the value of Young’s modulus.
+
+4. A stone projected horizontally from the top of a tower with a speed of 4 ms-1 lands on the level ground at a horizontal distance of 25 m from the foot of the tower. Calculate the height of the tower.
+[g = 10 ms-2]
+
+5. A spiral spring with a metal extends by 10.5cm in the air. When the metal is fully in water, the spring extends by 6.8 cm. Calculate the relative density of the metal (Assume Hooke s law Is obeyed)
+
+6. A ray of light is incident on an air-glass boundary at an angle t? If the angle between the partially reflected ray and the refracted ray is 90°, calculate θ given that the refractive index of glass is 1.50.
+
+7. A ball is projected horizontally from a height with a velocity of 40 ms-1. Calculate the drop in height after traveling a horizontal distance of 30m.
+[Neglect air resistance; g = 10 ms-1]
+
+8.
+
+NOTE: There is nothing like Waec physics expo online. Do not be deceived by fraudsters posing with fake Waec physics answers on the internet. The resources above on WAEC Physics Answers have been made available to assist candidates to understand the required standards expected in Physics final Examination.
+
+Keep following, more questions and answers will be added soon.
+    
+  
+  </p>
+<script>alert('welcome to my service')</script>
+</body>
+</html>
